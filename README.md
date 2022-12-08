@@ -41,3 +41,14 @@ By 2035, these major brands have pledged to go *ELECTIRC*.
 -Toyota
 -Volkswagen
 -Volvo
+
+
+
+
+
+
+
+
+
+![image](https://github.com/TSheridan01/Electric/blob/aebf76db94b2779f33085ab55512b2f523453628/Resources%20/EX90a.png)
+
