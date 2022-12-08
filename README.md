@@ -15,9 +15,6 @@ Electric vehicles (EVs) offer an opportunity to replace fossil fuels in the tran
 
 Cars and trucks produce nearly one-fifth of America’s greenhouse-gas emissions, all of which must be eliminated to achieve the federal target of net-zero emissions by 2050. Although electric-vehicle (EV) sales in the United States have climbed by more than 40 percent each year, on average, since 2016, nearly half of US consumers say that battery or charging issues are their top concerns about buying EVs.
 
-With major OEMs pledging to transition their fleets solely to the EV space over the coming years the need for new EV Charging Stations will be paramount. EV charging stations will replace all the gas stations we have come to know during our lives and will be our legacy. 
-
-
 
 ## Current EV Market Share
 
@@ -25,21 +22,21 @@ With major OEMs pledging to transition their fleets solely to the EV space over 
 
 By 2035, these major brands have pledged to go *ELECTIRC*.
 
--Bentley
--BMW
--Ford
--General Motors
--Honda
--Hyundia-Kia
--Jagular Land Rover
--Mazda
--Mercedes-Benz
--Mitsubishi
--Nissan
--Rolls-Royce
--Toyota
--Volkswagen
--Volvo
+- Bentley
+- BMW
+- Ford
+- General Motors
+- Honda
+- Hyundia-Kia
+- Jagular Land Rover
+- Mazda
+- Mercedes-Benz
+- Mitsubishi
+- Nissan
+- Rolls-Royce
+- Toyota
+- Volkswagen
+- Volvo
 
 
 
