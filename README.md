@@ -1,7 +1,7 @@
 # Electric
 Group 4 Project 
 
-#Charging Station Investment 
+# Charging Station Investment 
 
 #### Electric vehicles are the future!
 
