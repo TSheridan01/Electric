@@ -26,9 +26,9 @@ In addition this opens the door for an entire new sector of business, _investing
 
 By 2035, these major brands have pledged to go *ELECTIRC*.
 
--Bentley
--BMW
--Ford
+*Bentley
+*BMW
+*Ford
 -General Motors
 -Honda
 -Hyundia-Kia
