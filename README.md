@@ -11,3 +11,5 @@ Cars and trucks produce nearly one-fifth of America’s greenhouse-gas emissions
 
 With major OEMs pledging to transition their fleets solely to the EV space over the coming years the need for new EV Charging Stations will be paramount. EV charging stations will replace all the gas stations we have come to know during our lives and will be our legacy. 
 
+In addition this opens the door for an entire new sector of business, _investing and owning EV Charging Stations_. 
+
