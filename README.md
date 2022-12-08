@@ -13,3 +13,25 @@ With major OEMs pledging to transition their fleets solely to the EV space over 
 
 In addition this opens the door for an entire new sector of business, _investing and owning EV Charging Stations_. Our analysis pulls data from a multitude of sources; to factor in current EV Charging Stations and Crime Statistcs in New Jersey to help investors make smart decisions. 
 
+
+## Current EV Market Share
+
+![image](https://github.com/TSheridan01/Electric/blob/5ab631f6e114ab5ec0ded5cc64ecec204f24ece0/Resources%20/OEMMarketShare.png)
+
+By 2035, these major brands have pledged to go *ELECTIRC*.
+
+-Bentley
+-BMW
+-Ford
+-General Motors
+-Honda
+-Hyundia-Kia
+-Jagular Land Rover
+-Mazda
+-Mercedes-Benz
+-Mitsubishi
+-Nissan
+-Rolls-Royce
+-Toyota
+-Volkswagen
+-Volvo
