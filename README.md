@@ -1,4 +1,10 @@
-# Electric
+# Electric.
+
+
+![image](https://github.com/TSheridan01/Electric/blob/8db53a13e557ab07b7af009a4be8a1f1cd949163/Resources%20/Bolt1.png)
+
+
+
 Group 4 Project 
 
 # Charging Station Investment 
