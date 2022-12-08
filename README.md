@@ -16,5 +16,5 @@ In addition this opens the door for an entire new sector of business, _investing
 
 #### Current EV Market Share
 
-![https://github.com/TSheridan01/Electric/blob/5ab631f6e114ab5ec0ded5cc64ecec204f24ece0/Resources%20/OEMMarketShare.png)
+![image](https://github.com/TSheridan01/Electric/blob/5ab631f6e114ab5ec0ded5cc64ecec204f24ece0/Resources%20/OEMMarketShare.png)
 
