@@ -3,6 +3,27 @@
 
 ![image](https://github.com/TSheridan01/Electric/blob/8db53a13e557ab07b7af009a4be8a1f1cd949163/Resources%20/Bolt1.png)
 
+# First Segment 
+
+Supervised Classification Model will answer how likely are you to buy a Tesla based on your income? Will you buy Yes or No?
+Decision Tree using info from census excel data (Balanced random forest/Easy AdaBoost Classifier) 
+Datasets median income & registered number of EV vehicles in county
+
+Supervised Regression Model to forecast # of charging stations needed in the future. 
+Factors: Number of EV car sales, charging station dataset
+
+
+# Software
+
+Jupyter Notebook
+  Python
+  
+pgAdmin 4
+  PostgreSQL
+
+Quick Database Diagrams
+
+Tableau
 
 
 Group 4 Project 
