@@ -5,7 +5,7 @@
 
 # First Segment 
 
-Supervised Classification Model will answer how likely are you to buy a Tesla based on your income? Will you buy: Yes or No?
+Supervised Classification Model will answer how likely are you to buy an Electric Vehicle based on your income? Will you buy: Yes or No?
 Decision Tree using info from census excel data (Balanced random forest/Easy AdaBoost Classifier) 
 Datasets median income & registered number of EV vehicles in county
 
